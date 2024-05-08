@@ -8,6 +8,24 @@
         "id": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/canvas",
         "type": "Canvas",
         "duration": 563.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/practice-jpeg/annotations/practice-video-canvas-1-structure.json",
+            "label": {
+              "none": ["structure"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/practice-jpeg/annotations/practice-video-canvas-1-item.json",
+            "label": {
+              "none": ["Item"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/paintings",
