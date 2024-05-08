@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://wowjhow.github.io/practice-jpeg/practice-video/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Practice video" ] },
+    "items": [
+      {
+        "id": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 563.0,
+        "items": [
+          {
+            "id": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dlib.indiana.edu/avannotate/bouchard/IL_YA_QUATREANS_4KDCI_H264_VOST-high.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 563.0
+                },
+                "target": "https://wowjhow.github.io/practice-jpeg/practice-video/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
