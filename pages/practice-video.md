@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Practice video
 manifest_name: practice-video
 permalink: practice-video
